@@ -1,10 +1,10 @@
 # Documentation
 
-[API Documentation](https://linktodocumentation)
+[API Documentation](https://documenter.getpostman.com/view/18344610/2s93XsYS7X)
 
 ## Tech Stack
 
-**Node, Express**
+**Node, Express, MongoDB**
 
 ## Environment Variables
 
